@@ -13,4 +13,5 @@ Packages: Tidyverse, ggplot2, lubridate, pinyin, igraph, intergraph, network, st
 # Files
 centralized network.Rpoj: the project name.
 central-local.R: the code of elite network analysis. 
-
+Results: network graphs of central-local relations from 1949 to 1956. 
+Datafile: analyzed datasets. 
